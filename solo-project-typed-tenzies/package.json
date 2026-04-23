@@ -11,7 +11,9 @@
         "format": "prettier --write ."
     },
     "dependencies": {
+        "nanoid": "^5.1.9",
         "react": "^19.2.5",
+        "react-confetti": "^6.4.0",
         "react-dom": "^19.2.5"
     },
     "devDependencies": {
